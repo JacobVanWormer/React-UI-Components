@@ -3,9 +3,9 @@ import './Header.css';
 
 function Title() {
     return (
-        <div>
-            <h1>Lambda School</h1>
-            <p>@Lambda School · 26 jan </p>
+        <div className="title">
+            <h1 className="header-title">Lambda School</h1>
+            <p className="header-tag">@Lambda School · 26 jan </p>
         </div>
     );
 }
