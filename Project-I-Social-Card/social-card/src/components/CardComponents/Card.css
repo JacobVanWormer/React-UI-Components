@@ -1,1 +1,33 @@
 /* All styles for your Card Components live here */
+.card-container{
+    border: 1px solid grey;
+    width: 600px;
+    position: relative; 
+    bottom: 110px;
+    margin-left: 157px;
+    border-radius: 8px;
+    
+}
+
+.banner{
+    width: 600px;
+    border-radius: 8px;
+}
+
+.card-content{
+    padding: 10px;
+    color: black;
+}
+
+.card-content h1{
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.link{
+    color: grey;
+}
+    
